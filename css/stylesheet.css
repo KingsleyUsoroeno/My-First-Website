@@ -1,0 +1,32 @@
+body {
+	width: 100%;
+	overflow: hidden;
+	background-color: #1caa68;
+}	
+
+
+header{
+	width: 100%;
+	overflow: hidden;
+}
+
+header.tab {
+
+}
+
+h2{
+	font-family: arial,sans serif;
+	font-size: 80px;
+	color: #ffffff;
+	
+}
+
+img{
+	width: 100%;
+	background-image: url(../images/images.jpg);
+	background-repeat: no-repeat;
+	height: 550px;
+
+}
+
+
